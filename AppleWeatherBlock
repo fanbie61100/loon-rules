@@ -1,0 +1,2 @@
+IP-CIDR,17.0.0.0/8,REJECT,no-resolve 
+IP-CIDR6,2620:149::/32,REJECT,no-resolve
