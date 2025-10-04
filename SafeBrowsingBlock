@@ -1,0 +1,9 @@
+DOMAIN,lookup.api.bsb.baidu.com,REJECT 
+DOMAIN,proxy.safebrowsing.apple,REJECT 
+DOMAIN,safebrowsing.g.applimg.com,REJECT 
+DOMAIN,safebrowsing.googleapis.com,REJECT 
+DOMAIN,safebrowsing.urlsec.qq.com,REJECT 
+DOMAIN,token.safebrowsing.apple,REJECT 
+DOMAIN,vs6.bj2ct.u3.ucweb.com,REJECT 
+DOMAIN-SUFFIX,safebrowsing.apple,REJECT 
+DOMAIN-SUFFIX,u3.ucweb.com,REJECT
