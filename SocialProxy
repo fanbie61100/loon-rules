@@ -1,4 +1,5 @@
 #小红书
 DOMAIN,edith.xiaohongshu.com
 #抖音
-#DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX, amemv.com
+DOMAIN-SUFFIX, douyinvod.com
