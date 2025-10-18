@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
 # Ai 新增内容
 DOMAIN,softwareupdates.apple.com,REJECT
 DOMAIN,swscan.apple.com,REJECT
-DOMAIN,world-gen.g.aaplimg.com,REJECT  
 DOMAIN,radarsubmissions.apple.com,REJECT  
 DOMAIN,metrics.apple.com,REJECT  
 DOMAIN,securemetrics.apple.com,REJECT  
