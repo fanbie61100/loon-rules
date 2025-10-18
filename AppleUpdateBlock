@@ -15,8 +15,7 @@ DOMAIN,metrics.apple.com,REJECT
 DOMAIN,securemetrics.apple.com,REJECT  
 DOMAIN,metrics.icloud.com,REJECT  
 DOMAIN,iphonesubmissions.apple.com,REJECT  
-DOMAIN,iadc.qwape.com,REJECT  
-DOMAIN,ppq.apple.com,REJECT  
+DOMAIN,iadc.qwape.com,REJECT
 DOMAIN,idiagnostics.apple.com,REJECT  
 DOMAIN,iphonediags.apple.com,REJECT
 # Reddit 
