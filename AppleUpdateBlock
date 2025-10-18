@@ -9,12 +9,7 @@ DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
 DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
 # Ai 新增内容
 DOMAIN,softwareupdates.apple.com,REJECT
-DOMAIN,updates-http.apple.com,REJECT
 DOMAIN,swscan.apple.com,REJECT
-DOMAIN,updates-http.cdn-apple.com,REJECT
-DOMAIN,ocsp.int-x3.letsencrypt.org,REJECT  
-DOMAIN,ocsp.apple.com,REJECT  
-DOMAIN,ocsp2.apple.com,REJECT  
 DOMAIN,world-gen.g.aaplimg.com,REJECT  
 DOMAIN,radarsubmissions.apple.com,REJECT  
 DOMAIN,metrics.apple.com,REJECT  
@@ -25,3 +20,9 @@ DOMAIN,iadc.qwape.com,REJECT
 DOMAIN,ppq.apple.com,REJECT  
 DOMAIN,idiagnostics.apple.com,REJECT  
 DOMAIN,iphonediags.apple.com,REJECT
+# Reddit 
+DOMAIN,apldnld.apple.com,REJECT
+DOMAIN,swcdn.apple.com,REJECT
+DOMAIN,swdownload.apple.com,REJECT
+DOMAIN,swcdnlocator.apple.com,REJECT
+DOMAIN,swquery.apple.com,REJECT
