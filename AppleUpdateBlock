@@ -7,3 +7,8 @@ DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
 DOMAIN-SUFFIX,ads.internal.unity3d.com,REJECT
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,REJECT
 DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
+#新增
+DOMAIN,swdist.apple.com,REJECT
+DOMAIN,swscan.apple.com,REJECT
+DOMAIN,swcdn.apple.com,REJECT
+DOMAIN,updates.cdn-apple.com,REJECT
